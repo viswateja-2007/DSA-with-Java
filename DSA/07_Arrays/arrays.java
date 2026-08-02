@@ -5,7 +5,8 @@ public class arrays {
         //CREATE:
         //dataType arrayName = new dataType[size];
 
-        int marks[] = new int[50];
+        int marks[] = new int[50];  
+
 
 
         //manual way
@@ -30,6 +31,8 @@ public class arrays {
         //syntax = name.lenght
 
         System.out.println("lenght : " + anime.length);
+
+        sc.close();
     }
 
 }
