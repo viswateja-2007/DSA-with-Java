@@ -8,18 +8,18 @@
 
 # 📑 Table of Contents
 
-1. What is a Subarray?
-2. Subarray vs Subsequence
-3. Total Number of Subarrays
-4. Generating All Subarrays
-5. Dry Run
-6. Java Implementation
-7. Time & Space Complexity
-8. Common Mistakes
-9. Pattern Recognition
-10. Interview Perspective
-11. Quick Revision
-12. Practice Problems
+- [What is a Subarray?](#1-what-is-a-subarray)
+- [Subarray vs Subsequence](#2-subarray-vs-subsequence)
+- [Total Number of Subarrays](#3-total-number-of-subarrays)
+- [Generating All Subarrays](#4-generating-all-subarrays)
+- [Dry Run](#5-dry-run)
+- [Java Implementation](#6-java-implementation)
+- [Time & Space Complexity](#7-time--space-complexity)
+- [Common Mistakes](#8-common-mistakes)
+- [Pattern Recognition](#9-pattern-recognition)
+- [Interview Perspective](#10-interview-perspective)
+- [Quick Revision](#11-quick-revision)
+- [Practice Problems](#12-practice-problems)
 
 ---
 
