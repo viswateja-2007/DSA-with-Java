@@ -5,25 +5,24 @@
 > **Language:** Java
 
 ---
-
 # 📑 Table of Contents
 
-1. Problem Statement
-2. Why Do We Need Kadane's Algorithm?
-3. Brute Force Approach
-4. Better Approach (Prefix Sum)
-5. Intuition Behind Kadane's Algorithm
-6. Key Insight
-7. Algorithm
-8. Dry Run
-9. Java Implementation
-10. Time & Space Complexity
-11. Common Mistakes
-12. Pattern Recognition
-13. Interview Perspective
-14. Quick Revision
-15. Practice Problems
-16. What's Next?
+- [Problem Statement](#1-problem-statement)
+- [Why Do We Need Kadane's Algorithm?](#2-why-do-we-need-kadanes-algorithm)
+- [Brute Force Approach](#3-brute-force-approach)
+- [Better Approach (Prefix Sum)](#4-better-approach-prefix-sum)
+- [Intuition Behind Kadane's Algorithm](#5-intuition-behind-kadanes-algorithm)
+- [Key Insight](#6-key-insight)
+- [Algorithm](#7-algorithm)
+- [Dry Run](#8-dry-run)
+- [Java Implementation](#9-java-implementation)
+- [Time & Space Complexity](#10-time--space-complexity)
+- [Common Mistakes](#11-common-mistakes)
+- [Pattern Recognition](#12-pattern-recognition)
+- [Interview Perspective](#13-interview-perspective)
+- [Quick Revision](#14-quick-revision)
+- [Practice Problems](#15-practice-problems)
+- [What's Next?](#16-whats-next)
 
 ---
 
