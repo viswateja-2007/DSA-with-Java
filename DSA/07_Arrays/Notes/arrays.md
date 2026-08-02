@@ -8,21 +8,21 @@
 
 # 📑 Table of Contents
 
-1. What is an Array?
-2. Why do we need Arrays?
-3. Declaration & Initialization
-4. Memory Representation
-5. Accessing Elements
-6. Traversing Arrays
-7. Taking Input & Output
-8. Default Values
-9. Array Length
-10. Passing Arrays to Methods
-11. Common Mistakes
-12. Time & Space Complexity
-13. Interview Perspective
-14. Quick Revision
-15. Practice Problems
+- [What is an Array?](#1-what-is-an-array)
+- [Why do we need Arrays?](#2-why-do-we-need-arrays)
+- [Declaration & Initialization](#3-declaration--initialization)
+- [Memory Representation](#4-memory-representation)
+- [Accessing Elements](#5-accessing-elements)
+- [Traversing Arrays](#6-traversing-arrays)
+- [Taking Input & Output](#7-taking-input--output)
+- [Default Values](#8-default-values)
+- [Array Length](#9-array-length)
+- [Passing Arrays to Methods](#10-passing-arrays-to-methods)
+- [Common Mistakes](#11-common-mistakes)
+- [Time & Space Complexity](#12-time--space-complexity)
+- [Interview Perspective](#13-interview-perspective)
+- [Quick Revision](#14-quick-revision)
+- [Practice Problems](#15-practice-problems)
 
 ---
 
