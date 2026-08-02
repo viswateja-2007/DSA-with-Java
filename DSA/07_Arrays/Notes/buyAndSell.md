@@ -8,20 +8,20 @@
 
 # 📑 Table of Contents
 
-1. Problem Statement
-2. Understanding the Problem
-3. Brute Force Approach
-4. Thinking Process
-5. Optimal Approach
-6. Algorithm
-7. Dry Run
-8. Java Implementation
-9. Time & Space Complexity
-10. Common Mistakes
-11. Pattern Recognition
-12. Interview Perspective
-13. Quick Revision
-14. Practice Problems
+- [Problem Statement](#1-problem-statement)
+- [Understanding the Problem](#2-understanding-the-problem)
+- [Brute Force Approach](#3-brute-force-approach)
+- [Thinking Process](#4-thinking-process)
+- [Optimal Approach](#5-optimal-approach)
+- [Algorithm](#6-algorithm)
+- [Dry Run](#7-dry-run)
+- [Java Implementation](#8-java-implementation)
+- [Time & Space Complexity](#9-time--space-complexity)
+- [Common Mistakes](#10-common-mistakes)
+- [Pattern Recognition](#11-pattern-recognition)
+- [Interview Perspective](#12-interview-perspective)
+- [Quick Revision](#13-quick-revision)
+- [Practice Problems](#14-practice-problems)
 
 ---
 
