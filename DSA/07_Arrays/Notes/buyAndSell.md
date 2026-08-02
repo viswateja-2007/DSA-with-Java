@@ -312,23 +312,27 @@ Answer
 # 8. Java Implementation
 
 ```java
-public static int buyAndSell(int[] prices){
+public static int buyAndSell(int arr[]){
 
     int buy = Integer.MAX_VALUE;
-    int maxProfit = 0;
+    int profitMax = 0;
+    int profit = 0;
 
-    for(int price : prices){
+    for(int i = 0; i < arr.length; i++){
 
-        buy = Math.min(buy, price);
+      int sell = arr[i];
+      buy = Math.min(buy, sell);
+      if(buy < sell){
+        profit = sell - buy;
+      }
 
-        int profit = price - buy;
-
-        maxProfit = Math.max(maxProfit, profit);
+      profitMax = Math.max(profit, profitMax);
 
     }
 
-    return maxProfit;
-}
+    return profitMax;
+
+  }
 ```
 
 ---
