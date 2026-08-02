@@ -181,15 +181,7 @@ Whenever a new price appears,
 calculate
 
 ```
-Current Profit
-
-=
-
-Current Price
-
--
-
-Minimum Price
+Current Profit = Current Price - Minimum Price
 ```
 
 If this profit is larger than our previous answer,
