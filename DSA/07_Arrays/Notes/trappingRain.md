@@ -5,25 +5,24 @@
 > **Language:** Java
 
 ---
-
 # 📑 Table of Contents
 
-1. Problem Statement
-2. Understanding the Problem
-3. Why Does Water Get Trapped?
-4. Key Observation
-5. Brute Force Approach
-6. Optimized Approach (LeftMax & RightMax)
-7. Algorithm
-8. Dry Run
-9. Java Implementation
-10. Time & Space Complexity
-11. Common Mistakes
-12. Pattern Recognition
-13. Interview Perspective
-14. Quick Revision
-15. Practice Problems
-16. What's Next?
+- [Problem Statement](#1-problem-statement)
+- [Understanding the Problem](#2-understanding-the-problem)
+- [Why Does Water Get Trapped?](#3-why-does-water-get-trapped)
+- [Key Observation](#4-key-observation)
+- [Brute Force Approach](#5-brute-force-approach)
+- [Optimized Approach (LeftMax & RightMax)](#6-optimized-approach-leftmax--rightmax)
+- [Algorithm](#7-algorithm)
+- [Dry Run](#8-dry-run)
+- [Java Implementation](#9-java-implementation)
+- [Time & Space Complexity](#10-time--space-complexity)
+- [Common Mistakes](#11-common-mistakes)
+- [Pattern Recognition](#12-pattern-recognition)
+- [Interview Perspective](#13-interview-perspective)
+- [Quick Revision](#14-quick-revision)
+- [Practice Problems](#15-practice-problems)
+- [What's Next?](#16-whats-next)
 
 ---
 
