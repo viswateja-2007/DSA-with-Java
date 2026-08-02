@@ -6,24 +6,23 @@
 > **Prerequisite:** Arrays, Linear Search
 
 ---
-
 # 📑 Table of Contents
 
-1. What is Binary Search?
-2. Why Do We Need Binary Search?
-3. Prerequisites
-4. Linear Search vs Binary Search
-5. Intuition
-6. How Binary Search Works
-7. Algorithm
-8. Dry Run
-9. Java Implementation
-10. Time & Space Complexity
-11. Common Mistakes
-12. Pattern Recognition
-13. Interview Perspective
-14. Quick Revision
-15. Practice Problems
+- [What is Binary Search?](#1-what-is-binary-search)
+- [Why Do We Need Binary Search?](#2-why-do-we-need-binary-search)
+- [Prerequisites](#3-prerequisites)
+- [Linear Search vs Binary Search](#4-linear-search-vs-binary-search)
+- [Intuition](#5-intuition)
+- [How Binary Search Works](#6-how-binary-search-works)
+- [Algorithm](#7-algorithm)
+- [Dry Run](#8-dry-run)
+- [Java Implementation](#9-java-implementation)
+- [Time & Space Complexity](#10-time--space-complexity)
+- [Common Mistakes](#11-common-mistakes)
+- [Pattern Recognition](#12-pattern-recognition)
+- [Interview Perspective](#13-interview-perspective)
+- [Quick Revision](#14-quick-revision)
+- [Practice Problems](#15-practice-problems)
 
 ---
 
