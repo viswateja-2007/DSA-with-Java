@@ -8,25 +8,24 @@
 
 # 📑 Table of Contents
 
-1. Introduction
-2. What are Basic Array Problems?
-3. Common Operations
-4. Largest Element
-5. Smallest Element
-6. Reverse an Array
-7. Check if Array is Sorted
-8. Count Even & Odd Numbers
-9. Find Maximum & Minimum Difference
-10. Dry Run
-11. Time & Space Complexity
-12. Common Mistakes
-13. Interview Perspective
-14. Pattern Recognition
-15. Quick Revision
-16. Practice Problems
+- [Introduction](#1-introduction)
+- [What are Basic Array Problems?](#2-what-are-basic-array-problems)
+- [Common Operations](#3-common-operations)
+- [Largest Element](#4-largest-element)
+- [Smallest Element](#5-smallest-element)
+- [Reverse an Array](#6-reverse-an-array)
+- [Check if Array is Sorted](#7-check-if-array-is-sorted)
+- [Count Even & Odd Numbers](#8-count-even--odd-numbers)
+- [Find Maximum & Minimum Difference](#9-find-maximum--minimum-difference)
+- [Dry Run](#10-dry-run)
+- [Time & Space Complexity](#11-time--space-complexity)
+- [Common Mistakes](#12-common-mistakes)
+- [Interview Perspective](#13-interview-perspective)
+- [Pattern Recognition](#14-pattern-recognition)
+- [Quick Revision](#15-quick-revision)
+- [Practice Problems](#16-practice-problems)
 
 ---
-
 # 1. Introduction
 
 Before solving advanced array problems such as Prefix Sum, Kadane's Algorithm, or Sliding Window, it is important to master the basic operations on arrays.
