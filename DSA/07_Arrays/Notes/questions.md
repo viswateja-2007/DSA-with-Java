@@ -8,19 +8,19 @@
 
 # 📑 Table of Contents
 
-1. Problem Statement
-2. Understanding the Problem
-3. Brute Force Approach
-4. Better Approach (Sorting)
-5. Optimal Approach (HashSet)
-6. Dry Run
-7. Java Implementations
-8. Time & Space Complexity
-9. Common Mistakes
-10. Pattern Recognition
-11. Interview Perspective
-12. Quick Revision
-13. Practice Problems
+- [Problem Statement](#1-problem-statement)
+- [Understanding the Problem](#2-understanding-the-problem)
+- [Brute Force Approach](#3-brute-force-approach)
+- [Better Approach (Sorting)](#4-better-approach-sorting)
+- [Optimal Approach (HashSet)](#5-optimal-approach-hashset)
+- [Dry Run](#6-dry-run)
+- [Java Implementations](#7-java-implementations)
+- [Time & Space Complexity](#8-time--space-complexity)
+- [Common Mistakes](#9-common-mistakes)
+- [Pattern Recognition](#10-pattern-recognition)
+- [Interview Perspective](#11-interview-perspective)
+- [Quick Revision](#12-quick-revision)
+- [Practice Problems](#13-practice-problems)
 
 ---
 
