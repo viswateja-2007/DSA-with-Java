@@ -1,4 +1,3 @@
-````markdown
 # DSA with Java
 
 Welcome to **DSA-with-Java**! 👋
@@ -52,4 +51,3 @@ DSA-with-Java/
 ---
 
 ⭐ This repository is updated regularly as I continue learning and practicing Java and DSA.
-````
