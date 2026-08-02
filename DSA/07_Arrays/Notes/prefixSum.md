@@ -8,21 +8,21 @@
 
 # 📑 Table of Contents
 
-1. What is Prefix Sum?
-2. Why Do We Need Prefix Sum?
-3. Brute Force Approach
-4. Prefix Sum Concept
-5. Constructing the Prefix Sum Array
-6. Finding Range Sum
-7. Dry Run
-8. Java Implementation
-9. Time & Space Complexity
-10. Common Mistakes
-11. Pattern Recognition
-12. Interview Perspective
-13. Quick Revision
-14. Practice Problems
-15. What's Next?
+- [What is Prefix Sum?](#1-what-is-prefix-sum)
+- [Why Do We Need Prefix Sum?](#2-why-do-we-need-prefix-sum)
+- [Brute Force Approach](#3-brute-force-approach)
+- [Prefix Sum Concept](#4-prefix-sum-concept)
+- [Constructing the Prefix Sum Array](#5-constructing-the-prefix-sum-array)
+- [Finding Range Sum](#6-finding-range-sum)
+- [Dry Run](#7-dry-run)
+- [Java Implementation](#8-java-implementation)
+- [Time & Space Complexity](#9-time--space-complexity)
+- [Common Mistakes](#10-common-mistakes)
+- [Pattern Recognition](#11-pattern-recognition)
+- [Interview Perspective](#12-interview-perspective)
+- [Quick Revision](#13-quick-revision)
+- [Practice Problems](#14-practice-problems)
+- [What's Next?](#15-whats-next)
 
 ---
 
