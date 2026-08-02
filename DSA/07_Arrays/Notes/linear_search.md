@@ -5,21 +5,20 @@
 > **Language:** Java
 
 ---
-
 # 📑 Table of Contents
 
-2. What is Linear Search?
-2. Why do we need Linear Search?
-3. How Linear Search Works
-4. Algorithm
-5. Dry Run
-6. Java Implementation
-7. Time & Space Complexity
-8. Advantages & Limitations
-9. Common Mistakes
-10. Interview Perspective
-11. Quick Revision
-12. Practice Problems
+- [What is Linear Search?](#1-what-is-linear-search)
+- [Why do we need Linear Search?](#2-why-do-we-need-linear-search)
+- [How Linear Search Works](#3-how-linear-search-works)
+- [Algorithm](#4-algorithm)
+- [Dry Run](#5-dry-run)
+- [Java Implementation](#6-java-implementation)
+- [Time & Space Complexity](#7-time--space-complexity)
+- [Advantages & Limitations](#8-advantages--limitations)
+- [Common Mistakes](#9-common-mistakes)
+- [Interview Perspective](#10-interview-perspective)
+- [Quick Revision](#11-quick-revision)
+- [Practice Problems](#12-practice-problems)
 
 ---
 
