@@ -212,25 +212,15 @@ profit = 0;
 For every price
 
 ```
-buy
+buy = minimum price so far
 
-=
-
-minimum price so far
 ```
 
 Then
 
 ```
-profit
+profit = current price - buy
 
-=
-
-current price
-
--
-
-buy
 ```
 
 Update
