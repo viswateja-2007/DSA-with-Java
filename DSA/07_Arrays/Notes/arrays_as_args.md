@@ -8,17 +8,17 @@
 
 # 📑 Table of Contents
 
-1. Why Pass Arrays to Methods?
-2. How Java Passes Arrays
-3. Passing Arrays to Methods
-4. Modifying Arrays Inside Methods
-5. Why Changes Reflect Outside the Method
-6. Memory Representation
-7. Common Mistakes
-8. Time & Space Complexity
-9. Interview Perspective
-10. Quick Revision
-11. Practice Problems
+- [Why Pass Arrays to Methods?](#1-why-pass-arrays-to-methods)
+- [How Java Passes Arrays](#2-how-java-passes-arrays)
+- [Passing Arrays to Methods](#3-passing-arrays-to-methods)
+- [Modifying Arrays Inside Methods](#4-modifying-arrays-inside-methods)
+- [Why Changes Reflect Outside the Method](#5-why-changes-reflect-outside-the-method)
+- [Memory Representation](#6-memory-representation)
+- [Common Mistakes](#7-common-mistakes)
+- [Time & Space Complexity](#8-time--space-complexity)
+- [Interview Perspective](#9-interview-perspective)
+- [Quick Revision](#10-quick-revision)
+- [Practice Problems](#11-practice-problems)
 
 ---
 
