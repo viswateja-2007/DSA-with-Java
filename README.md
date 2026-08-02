@@ -19,7 +19,7 @@ DSA-with-Java/
 │
 ├── DSA/
 │   ├── 07_Arrays/
-|   ├── 08_2D_Arrays/
+|   ├── 
 └── README.md
 ```
 
